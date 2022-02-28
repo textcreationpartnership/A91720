@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vvound's o' the Kirk o' Scotland in her head, heart, hands, and feet; held forth in a sermon preach't at Edinburgh by Mr James Rew. [sic]</title>
+            <title>Red-Shankes sermon.</title>
+            <author>Row, James, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91720</idno>
+            <idno type="STC">Wing R1209</idno>
+            <idno type="STC">Thomason E614_8</idno>
+            <idno type="STC">ESTC R203468</idno>
+            <idno type="EEBO-CITATION">99863417</idno>
+            <idno type="PROQUEST">99863417</idno>
+            <idno type="VID">115619</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91720)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115619)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 94:E614[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vvound's o' the Kirk o' Scotland in her head, heart, hands, and feet; held forth in a sermon preach't at Edinburgh by Mr James Rew. [sic]</title>
+                  <title>Red-Shankes sermon.</title>
+                  <author>Row, James, 17th cent.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Du-Gard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>anno Dom. 1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Originally published in 1642 as: The Red-Shankes sermon.</note>
+                  <note>Annotation on Thomason copy: "Octob: 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="sco">sco</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115619:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 56 -->
+            <p>THE VVOUND'S O' THE KIRK O' SCOTLAND In her head, heart, hands, and feet; Held forth <hi>In a</hi> Sermon <hi>preach't</hi> AT EDINBURG</p>
+            <p>
+               <hi>BY</hi> M<hi rend="sup">r</hi> JAMES REW.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>William Du-Gard,</hi> Anno Dom. 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:115619:2"/>
+            <!-- PDF PAGE 57 -->
+            <pb n="1" facs="tcp:115619:2"/>
+            <!-- PDF PAGE 57 -->
+            <head>Notes of a Sermon preach't at S<hi rend="sup">t</hi> 
+               <hi>Gile's</hi> the great Church in <hi>Edenburgh</hi> upon a Faſt daie, the laſt Sundaie in <hi>Julie</hi> 1638. By M<hi rend="sup">r</hi> 
+               <hi>James Rew.</hi>
+            </head>
+            <argument>
+               <p>The Preacher began thus.</p>
+               <q>Mercifull Lord! I have twa queſtions to ſpeire at thee, &amp;c.</q>
+            </argument>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Text JEREM. 30.17.</hi>
+                  </bibl>
+                  <p>I will reſtore health unto thee, and will heal thee of thy <hi>wounds,</hi> ſaith the Lord, becauſ they called thee an outcaſt, ſaying, This is <hi>Zion,</hi> whom no man ſeeketh after.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg> Need not mickle to trouble my ſeln, whea is meant by <hi>Zion;</hi> yee aw ken it well eneugh: it is the pure <hi>Kirk</hi> o' <hi>Scotland:</hi> The <hi>Kirk</hi> o' <hi>Scotland</hi> is <hi>wounded</hi> in her <hi>head,</hi> in her <hi>heart,</hi> in her <hi>hands,</hi> and in her <hi>feet.</hi>
+            </p>
+            <pb n="2" facs="tcp:115619:3"/>
+            <!-- PDF PAGE 58 -->
+            <list>
+               <item>1 In her <hi>Head,</hi> as in the <hi>Government.</hi>
+               </item>
+               <item>2 In her <hi>Heart,</hi> as in the <hi>Doctrine.</hi>
+               </item>
+               <item>3 In her <hi>Hands,</hi> as in the <hi>Diſcipline.</hi>
+               </item>
+               <item>4 In her <hi>Feet</hi> as in the <hi>Worſhip.</hi>
+               </item>
+            </list>
+            <p n="1">I The <hi>Kirk</hi> o' <hi>Scotland</hi> is wounded in her <hi>Head:</hi> the <hi>Kirk</hi> o' <hi>Scotland</hi> hath gotten ſike a claſh on her head as has made her harnes ſwape in at her ſenſes.</p>
+            <p n="1">1 In her <hi>Seeing:</hi> The <hi>Kirk</hi> o' <hi>Scotland</hi> was a ſeen as well as anie Chriſtian Kirk; but now ſhee cannot diſtinguiſh benance black and white; bring Paperie before her, ſhee cannot diſcern between that and true Religion.</p>
+            <p n="2">2 The <hi>Kirk</hi> o' <hi>Scotland</hi> is wounded in her <hi>Hearing:</hi> The <hi>Kirk of Scotland</hi> cud a diſtinguiſh't o' ſounds, but ſince the Organs were brought in, ſhee is grown as deaf, as a dure-nail.</p>
+            <p n="3">3 The <hi>Kirk</hi> o' <hi>Scotland</hi> cud a ſmel't as weel as anie Chriſtian Kirk i'th world. The <hi>Kirk</hi> of <hi>Ream</hi> ſmelt ſea ſtrang, that at firſt ſhee cud a tell'd yee, that ſhee ſmelt of the <hi>Whore</hi> of <hi>Babylon;</hi> but now bring the ſtinkingſt Paperie to her noſe, it will ſmell as ſweet as an apple.</p>
+            <p>Now poor Saul, yee ha ſeen her wounded: there ſhee ligg's, a ruful ſpectacle: pittie her an yee will: But what will yee ſaie to the curing of her ſenſes?</p>
+            <p>They'le tell yee, ſhee is in as gude a caſe as e're ſhee was: and how ſay? Ile tell yee.</p>
+            <p>The <hi>Kirk</hi> o' <hi>Scotland ſee's</hi> better then e're ſhe did; of awd the <hi>Kirk</hi> o' <hi>Scotland</hi> ſaw her Miniſters in gude and little ſhort cloaks with black velvet-necks; and thur little cloaks turn'd more ſauls to God, then ere the lang gowns did: but now yee ſall ſee their
+<pb n="3" facs="tcp:115619:3"/>
+               <!-- PDF PAGE 58 -->prideful Prelates hurled up and down the Town in bra coaches: There's a bra ſight for the <hi>Kirk</hi> o' <hi>Scotland!</hi> Shee <hi>ſee's</hi> better, I'le ſwear, then e're ſhee did.</p>
+            <p>The <hi>Kirk</hi> o' <hi>Scotland ſmel's</hi> better then e're ſhee did, and how? I'le tell yee: The <hi>Kirk</hi> o' <hi>Scotland</hi> ſmell's ſea weel, at ſhee can ſent yee a Biſhoprick ten years afore it faw: but it may bee hee at ſmell's beſt, will nee'r lick's fingers ends on't.</p>
+            <p>The <hi>Kirk</hi> o' <hi>Scotland taſt's</hi> better then e're ſhee did; and how? I'le tell yee: a good honeſt Mini<g ref="char:EOLhyphen"/>ſter wud a been content wea a plain diſh of milk, and bread, heamli<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> meat: but now your Prelates will ha a lick of the beſt on't; ſo yee ſee the Kirk o' <hi>Scotland taſts</hi> better an e're ſhee did.</p>
+            <p n="2">II I ha don with her ſenſes; now I'le tell yee how ſhee is wounded in her <hi>Hands,</hi> and that I caw'd the <hi>Diſcipline</hi> o' the <hi>Kirk</hi> o' <hi>Scotland.</hi> They <hi>ſleighted</hi> the <hi>Kirk</hi> o' <hi>Scotland:</hi> yee knaw weel, wee uſe to <hi>ſleighter</hi> onely <hi>thievs</hi> and <hi>runawaies;</hi> the <hi>Kirk</hi> o' <hi>Scotland</hi> was baith. <hi>Firſt,</hi> ſhee was a <hi>Runawaie,</hi> and that was the time of the glorious Reformation: then came ſhee clear away fra <hi>Ream;</hi> and hard did they follow her, and fain wud they a been at her; for an they had getten her, they wud a gi'n her their lead attyes, but God bee thanked, they cud not overtake her. <hi>Secondly,</hi> the <hi>Kirk of Scotland</hi> was a <hi>Thief</hi> too; alate ſhee has gean to <hi>Ream,</hi> an ſtawn away all the traſh and trumperie; all's in their buke of Common prayer, and Canons: weel away! what traw yee? they ſleighted her, but with a ſilken cord of a Canonical obedience to the
+<pb n="4" facs="tcp:115619:4"/>
+               <!-- PDF PAGE 59 -->Ordinarie: and wee ha taken gret delight to bee bun: wee's ha a <hi>bunny Kirk:</hi> But after they gate us faſt, they made the ſilk rape a Cable too, with whilk they girded us ſea faſt, that wee cud not ſea mickle as ſteir, but auther wee muſt run into the danger o' blinde obedience o'th twea ſide, to accept of awl the Idolatrie and Superſtitious Ceremonies they impo<g ref="char:EOLhyphen"/>ſed on us: or elſ o'th to'ther ſide bee main ſwern men. Na, the <hi>Kirk</hi> of <hi>Scotland</hi> is ſea wounded in her hands, that for thur twentie year by-gon ſhee cud not make her hummack on a caud daie: ſea, the <hi>Kirk</hi> of <hi>Scotland</hi> for thur twentie year together cud not have a meeting in a lawful Aſſemblie.</p>
+            <p n="3">III. I ha don with her <hi>hands:</hi> now I'le ſhaw yee how ſhee is wounded in her <hi>feet,</hi> and that I cau'd the <hi>worſhip</hi> of the <hi>Kirk</hi> o' <hi>Scotland.</hi> The <hi>Kirk</hi> of <hi>Scotland</hi> was eance a <hi>bonnie trotting nagg:</hi> but then ſhee <hi>trotted</hi> ſea hard, that nee'r a man durſt ride her. But then the Biſhops, thur hard-riding Lowns, they got on her back: and they <hi>croſs-langel'd</hi> her, and <hi>hopſhackled</hi> the <hi>Kirk</hi> of <hi>Scotland.</hi> And then ſhee became a <hi>bonnie-paceing beaſt:</hi> and they took great pleaſure to ride on her: but with their jogging her up and down between <hi>Edenburgh</hi> and <hi>London</hi> (it may bee, and <hi>Ream</hi> too) they ha gi'n her ſike a hait coat, at wee a been this twelv moneth by-gon, ſtirring her up and down for keeping her fra foun<g ref="char:EOLhyphen"/>dring.</p>
+            <p>Na, they made not onely an <hi>Horſ</hi> but an <hi>Aſs</hi> o' the <hi>Kirk</hi> of <hi>Scotland:</hi> how ſay yee by that now? Ile tell yee how they made <hi>Balaam's Aſs</hi> on her; yee ken weel, that <hi>Balaam</hi> was ganging an unluckie gate:
+<pb n="5" facs="tcp:115619:4"/>
+               <!-- PDF PAGE 59 -->and firſt the Angel met him in a bread weay: and then the <hi>Aſs</hi> boggled and ſtarted; but <hi>Balaam</hi> got by the Angel, and hee tull her, and battoon'd her ſufficiently; that was when <hi>Epiſcopacie</hi> came in: and then they ga the <hi>Kirk</hi> o' <hi>Scotland</hi> their pricks. Ef<g ref="char:EOLhyphen"/>terward <hi>Balaam</hi> met the Angel in a ſtraighter gate, and the <hi>Aſs</hi> ſtartled more then ſhee did afore: <hi>Ba<g ref="char:EOLhyphen"/>laam,</hi> hee tull her again, and paid her ſoundly: that was when the five <hi>Articles</hi> of <hi>Perth</hi> were brought in: the third time the Angel met <hi>Balaam</hi> in ſea ſtraight a gate, as the <hi>Aſs</hi> cud not get by him: and then it pleaſ'd God to open blinde <hi>Balaams</hi> eyn: and that is this happy daie: Now God hath open'd aw our eyn: well war blind <hi>Balaam</hi> ganging an un<g ref="char:EOLhyphen"/>lucky gate, ridden poſt to <hi>Ream:</hi> and what had they gotten behind o'th <hi>Aſs</hi> traw yee? they had gotten on a <hi>poak mantle,</hi> and in that there was the <hi>buke</hi> o' <hi>Cannons,</hi> and <hi>buke</hi> o' <hi>Common-praier,</hi> and the <hi>high Commiſsion;</hi> Now as ſoon as ere the <hi>Aſs</hi> ſaw the Angel, ſhee fawe's a flinging, and over gea's the <hi>poak-mantle,</hi> and it hing's by the twa ſtrings o' ea ſide, and up gea's blinde <hi>Balaam,</hi> and hee hing by the hough o'th tother ſide; and fain wud the blinde Carl bee i'th ſaddle agen, and bee content to leav the <hi>poak-mantle.</hi> But beloved, let not the fauȝ Zwinger get on agen: for an hee do, hee will bee ſure to get up the <hi>poak-mantle</hi> agen.</p>
+            <p n="4">IV. The <hi>Kirk</hi> of <hi>Scotland</hi> is wounded in her <hi>Heart:</hi> and that I tell'd you was the <hi>doctrine</hi> of the <hi>Kirk</hi> of <hi>Scotland;</hi> and that's <hi>Papery,</hi> and <hi>Arminia<g ref="char:EOLhyphen"/>niſm,</hi> that's ſea rife in our <hi>Kirk</hi> and <hi>Scules.</hi> Nay there are ſom of yee ſitting here, at hear's mee, at has
+<pb n="6" facs="tcp:115619:5"/>
+               <!-- PDF PAGE 60 -->wiſh't emſelvs an hundred times to ha been out o'th <hi>Kirk,</hi> when yee heard the pawtry ſtuff at came fra him. Yee ha heard mee many a time, my brethren, compare the <hi>Kirk</hi> and our Lord <hi>Jeſu</hi> together; and I gea not very far for my <hi>ſimile:</hi> for hee is the <hi>head,</hi> and the <hi>Kirk</hi> is the <hi>bodie.</hi> Yee knaw, that our Savi<g ref="char:EOLhyphen"/>or, e'r hee entred on the Miniſtrie, hee was carried by <hi>Lucifer</hi> (God ſave us!) into the Wilderneſs, where hee was tempted fourtie lang daies (O the mickle Devil!) where hee was rejected, and ſet light off by aw; But then aſſoon as e'r hee began to wark his Miracles, than hee was carried in <hi>Jeruſalem</hi> in triumph, there was nothing in their mouths then but <hi>Hoſannae's;</hi> bleſſed is hee that cometh in the name of the Lord: the neuſt news yee hear of him, they com with hawbeards and <hi>jather'd</hi> ſtaves fraw the high Prieſt to apprehend him: juſt ſea it is with the pure <hi>Kirk</hi> of <hi>Scotland:</hi> for this year by-gon ſhee has ſit deſolate and in the Wilderneſs, contemned by aw, cared for by neane: Now is the glorious daie at ſhee is ridden in triumph to <hi>Jeruſalem,</hi> now there is neathing in aw mouths but <hi>Hoſanna's:</hi> but take heed, when they com with ſwords and ſtaves fra the high Prieſt, at they do not with Peter ſhaw a pair of heels, and forſake him.</p>
+            <p>They ha not onely made an <hi>Horſ,</hi> and an <hi>Aſs,</hi> but they ha <hi>betrai'd</hi> the <hi>Kirk</hi> of <hi>Scotland.</hi> Yee knaw whea betrai'd our Savior: they <hi>betrai'd</hi> him at were <hi>ſilent</hi> in ſea gude a cauſ; they <hi>betrai'd</hi> him at <hi>accus'd</hi> him, at <hi>judg'd</hi> him: they <hi>betrai'd</hi> him at <hi>forſook</hi> him. But whare ſall wee finde the fauȝ <hi>Judas</hi> aw the while? And now Ile tell you a tale, I dare not ſay it's true,
+<pb n="7" facs="tcp:115619:5"/>
+               <!-- PDF PAGE 60 -->but yee ſall ha it as I had it. When I was a little lad at Scule, there was a young hopefull <hi>Theologue</hi> (whea is now nea ſmall man o' this land) and beeing to preach the verie words o' <hi>Judas, what will yee give mee, and I will betraie him?</hi> the young man learn'd his text ſea weel, as hee tell'd it in baith Latine and Scottiſh: <hi>quid dabitis mihi, &amp; tradam illum? what will yee give mee, and I will betraie him?</hi> There was a gude man ſitten at fute o'th Pulpit, whare ſtanding up and lewkin full in's face, ſaid, marry Ile gi' yee a gude fat Biſhoprick, and then Ile ſure yee'l betraie him. And ſea yee ſee whea ha <hi>betraid</hi> the <hi>Kirk</hi> o' <hi>Scotland.</hi>
+            </p>
+            <p>The <hi>Kirk</hi> o' <hi>Scotland</hi> was eance a bonnie <hi>Grammar Scholar:</hi> and wate yee weel, ſhee had skil in <hi>Regi<g ref="char:EOLhyphen"/>men</hi> and <hi>Concordantia,</hi> and cud a made a bonnie piece o' Latin: for everie thing ſhee did, ſhee was forced <hi>dareregulam;</hi> or if ſhee offended, ſhee was ſure o' <hi>pande manum:</hi> but efterward when ſhee went to the <hi>Colledg,</hi> ſhee had mear libertie, or wud take it: and firſt of aw, ſhee began in her <hi>Rhetorick,</hi> and in ſtead of true proper ſpeaking, ſhee learn't neathing but allegories and hyperbolies: then ſhee come's to her <hi>Logick,</hi> and inſtead of true demonſtration, ſhee learn't nothing but homonomies and captious ſyllo<g ref="char:EOLhyphen"/>giſms: Efterward ſhee came to <hi>Ethicks,</hi> but ſhee did not mickle trouble her ſeln with them; but ſtu<g ref="char:EOLhyphen"/>died the <hi>Politick,</hi> and that ſea weel, at ſhee turn'd aw Religion into meer State-policie: for <hi>Metaphyſicks</hi> ſhee knawe's there is <hi>Ens,</hi> and that muſt bee <hi>unum, verum, &amp; bonum:</hi> ſea there muſt bee ean Religion, true Religion, and gude Religion; but this was too
+<pb n="8" facs="tcp:115619:6"/>
+               <!-- PDF PAGE 61 -->high and honeſt for her: wharefore ſhee ſtudied mear the <hi>Phyſicks,</hi> and turn'd aw into <hi>materia prima;</hi> and made it capable of anie form, as ſhee pleaſ'd to impreſs upon it.</p>
+            <div type="part">
+               <argument>
+                  <p>After hee had don with his Sermon and Praier, ſtand<g ref="char:EOLhyphen"/>ing up to give a bleſsing, hee ſaid thus:</p>
+               </argument>
+               <p>I Knaw weel enugh at it is not the cuſtom o' this place to ſaie anie thing efter praier; but becauſ I had mickle to ſay, and ea thing dang another out o' my head, tharefore ſall yee gi' mee leav to add a word or twa mear.</p>
+               <p>And <hi>firſt</hi> of aw, I will ſpeak to you that are cal<g ref="char:EOLhyphen"/>led by the <hi>Colledg of Juſtice;</hi> and <hi>why,</hi> I praie, <hi>do not yee ſubſcribe to the Covenant?</hi> Yee'l ſaie to mee, yee are emploied by his Majeſtie in ſom ſpecial affairs, and yee cannot wea your Honor ſubſcribe to the Covenant: <hi>here's a bra anſwer indeed!</hi> there's not the meaneſt man that gather's up 20 marks <hi>per an.</hi> for the King, but may ha this hole to gea out at, and than wee ſall ha bra ſubſcribing to the Cove<g ref="char:EOLhyphen"/>nant: Yea, yea, ther's but ea man at ſtand's be<g ref="char:EOLhyphen"/>tween God and thee, get by that man, and gang to God.</p>
+               <p>And in the <hi>ſecond</hi> place, why do not yee Noble<g ref="char:EOLhyphen"/>men <hi>ſubſcribe to the Covenant?</hi> You'l ſaie, <hi>noli me tangere:</hi> howſoe're I'le gi' yee a twitch. It may bee an yee bee put to it, yee'l ſaie, yee muſt ride in Parlament-order, the meaneſt muſt gea firſt, and ſubſcribe to the Covenant, and then yeel com ef<g ref="char:EOLhyphen"/>ter. <hi>There's a bra anſwer indeed!</hi> Yee ha a faſhon in
+<pb n="9" facs="tcp:115619:6"/>
+                  <!-- PDF PAGE 61 -->thur Suthern parts o' <hi>Scotland,</hi> and when yee com tull a foard the pear Jack-man muſt venter o're firſt upon his weak weay-nagg to trie it; and if hee can gea, and com back agen, the Lord com's mounted on his gaie ſteed, and then hee gea's o're. This is not right beloved. Wee at are Hilanders ha a better faſhon, wee uſuallie gea a feut, and when wee com tull a ford, wee are loath to leav a man, therefore wee join other to other, arm in arm, and loupe aw togeather into the foard; and if ea man drown, aw drown; ean ſea here, ſet your hands to the Covenant; and if ean man periſh, aw periſh.</p>
+               <p>
+                  <hi>Thirdly,</hi> I ſpeak a word to yee that are the <hi>Town-Counſel;</hi> and although I ſee twa of the chief chairs emptie; Yea yee ſhall ha it: And why do not yee ſubſcribe? It may bee yee will ſaie, yee are in office; now ſtaie to the neuſt year, till your office bee out, and then yee'l ſubſcribe to the Covenant too. <hi>Here's a bra anſwer indeed!</hi> It may bee God will get his wark don before that time, and then whare will your thanks bee? Get your Clark's Regiſter, and ſearch o're the rowl, and ſee an ever the Town of <hi>Edenburgh</hi> ſuffer'd with joining with the <hi>Kirk</hi> o' <hi>Scotland.</hi>
+               </p>
+               <p>
+                  <hi>Laſt of aw,</hi> I muſt ſpeak a word or twa to yee that are ſtrangers, <hi>(and then turning himſelf to the Scaffold, where the Provoſt and Bailiffs of Aberdeen ſate, who had not ſubſcribed)</hi> and what's the reaſon yee do not ſubſcribe to the Covenant? It may bee yee bee com hither about your civil affairs, an when yee
+<pb n="10" facs="tcp:115619:7"/>
+                  <!-- PDF PAGE 62 -->came out, yee reſolved not to ſubſcribe to the Covenant: Wee'l take my advice, I ſay, <hi>Aberdeen<g ref="char:EOLhyphen"/>men,</hi> and <note n="†" place="bottom">They uſe to upbraid <hi>Aberdeen men</hi> with not ſtand<g ref="char:EOLhyphen"/>ing to their bargains, ſaying, then <hi>† take your word again.</hi>
+                  </note> 
+                  <hi>take your word again;</hi> and gea heam, and drink the <note n="*" place="bottom">
+                     <hi>Boon-accord</hi> is the Motto of the Town; when anie man is made free of <hi>Aberdeen,</hi> they uſe to drink a large cup of Sack, which they they call the <hi>* Cup of boon-accord.</hi>
+                  </note> 
+                  <hi>cup of boon-accord,</hi> and join to the <hi>Kirk</hi> o' <hi>Scotland,</hi> and ſubſcribe to the Covenant.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
